@@ -7,7 +7,7 @@
 
 > To be a software composer is to select, arrange and blend pre-existing components, libraries and APIs into a complete and expressive solution.
 
-Software composers use AI & LLM powered tools to move from concept to code to deployment expressively with natural language. 
+Software composers use AI & LLM powered tools to move from idea -> code -> deployment quickly and expressively with natural language. For a longer introduction read [The Rise of the Software Composer](https://tolacapital.com/2024/11/13/the-rise-of-the-software-composer-a-new-era-of-software-creation).
 
 </td>
 <td width="40%">
@@ -15,6 +15,24 @@ Software composers use AI & LLM powered tools to move from concept to code to de
 </td>
 </tr>
 </table>
+
+## Table of Contents
+- [Getting started](#getting-started)
+  - [Education](#education)
+  - [The most popular workflow](#the-most-popular-workflow)
+- [Active Communities](#active-communities)
+- [Tools](#tools)
+  - [The most popular tools](#the-most-popular-tools-that-enable-the-software-composer-workflow)
+  - [All tools by category](#all-tools-by-category)
+    - [Foundation Models](#foundation-models)
+    - [Frontend AI tools](#frontend-ai-tools)
+    - [Frontend Libraries](#frontend-libraries)
+    - [AI Code Editors & Co-pilots](#ai-code-editors--co-pilots)
+    - [Backend & Persistence](#backend--persistence)
+    - [Deployment & Hosting](#deployment--hosting)
+    - [Version Control & Collaboration](#version-control--collaboration)
+    - [Authentication & Identity](#authentication--identity)
+- [In the wild]()
 
 ## Getting started
 
@@ -30,12 +48,12 @@ Software composers use AI & LLM powered tools to move from concept to code to de
 
 ### The most popular workflow 
 
-Software composers are using a combination of tools to move from idea to code to deployment. 
+Software composers are using a combination of tools to move from idea -> code -> deployment but the most popular workflow is as follows:
 
 Idea
 - V0 to generate an initial UI design from a text prompt
 
-Development
+Code
 - Cursor and composer to generate the code to implement the design
 - Git & GitHub to version control 
 - Firebase to persist the data
@@ -88,6 +106,14 @@ flowchart LR
 - [Clerk](https://clerk.com) - A plug-and-play user authentication and identity service that simplifies sign-ups, logins, and account management, with support for social logins and MFA.
 - [Vercel](https://vercel.com) - A cloud platform for fast, reliable web app deployment, optimized for frameworks like Next.js, with serverless functions and edge caching.
 - [Github](https://github.com) - The go-to platform for version control and collaboration, offering Git hosting, pull requests, CI/CD with GitHub Actions, and project management tools.
+
+### One-stop shop products
+
+The following products seek to provide a one-stop shop for the software composer workflow from idea -> code -> deployment.
+
+- [Bolt.new](https://bolt.new) - Prompt, run, edit, and deploy full-stack web apps.
+- [Loveable](https://lovable.dev/) Promises idea to app in seconds. 
+- [Github Spark](https://githubnext.com/projects/github-spark) - `[Technical Preview]` Enabling anyone to create or adapt software for themselves, using AI and a fully-managed runtime. Focus on building and sharing personalized micro-apps
 
 ### All tools by category
 
@@ -154,6 +180,27 @@ flowchart LR
 - [Auth0](https://auth0.com) - A comprehensive authentication and authorization platform that supports a wide range of identity providers, including social logins, and offers flexible configuration options for secure authentication.
 
 
+## In the wild
+
+### Real Applications 
+- [ChatPRD](https://www.chatprd.ai/) - An on-demand AI copilot for product managers to generate product requirements documents largely software composed by [Clair Vo](https://x.com/clairvo)
+- [YapThread: AI Voice Notes](https://yapthread.com) - A voice note app that uses AI to transcribe and summarize voice notes software composed by [Riley Brown](https://x.com/rileybrown_ai)
+
+### On X (Twitter)
+
+- An [crypto exchange UI](https://x.com/Tristan0x/status/1830102400872693985) by [@Tristan0x](https://x.com/Tristan0x)
+- An [AI photo generator](https://x.com/mckaywrigley/status/1829982464653345178) by [@mckaywrigley](https://x.com/mckaywrigley)
+- [Figma Plugins](https://x.com/damianoredem/status/1827113234262004147) by [@damianoredem](https://x.com/damianoredem)
+- A full fledged [video editor](https://x.com/MengTo/status/1826955943311241611) by [@MengTo](https://x.com/MengTo)
+- A [harry potter app](https://x.com/rickyrobinett/status/1825581674870055189) by [@rickyrobinett](https://x.com/rickyrobinett)'s daughter
+- A [background remover tool](https://x.com/mattppal/status/1828829915460075540) by [@mattppal](https://x.com/mattppal)
+- A [chrome extension](https://x.com/moritzkremb/status/1828749774499254738) by [@moritzkremb](https://x.com/moritzkremb)
+- An [iphone game with sound](https://x.com/gong_cn/status/1829040895146242185) by [@gong_cn](https://x.com/gong_cn)
+- An app [called pin or drop](https://x.com/rileybrown_ai/status/1830014436746412164) by [@rileybrown_ai](https://x.com/rileybrown_ai)
+- A [stock price dashboard](https://x.com/mjovanovictech/status/1829627967250583643) by [@mjovanovictech](https://x.com/mjovanovictech)
+- A [cursor analytics dashboard](https://x.com/thehamedmp/status/1824216074579218678) by [@thehamedmp](https://x.com/thehamedmp)
+- A [location based travel app](https://x.com/zenowang98/status/1856744501441933770) by [@zenowang98](https://x.com/zenowang98)
+- An [air conditioner size calculator](https://x.com/Shpigford/status/1819429974287233413) by [@Shpigford](https://x.com/Shpigford)
 
 
 
