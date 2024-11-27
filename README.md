@@ -7,7 +7,7 @@
 
 > To be a software composer is to select, arrange and blend pre-existing components, libraries and APIs into a complete and expressive solution.
 
-Software composers are using AI / LLM powered tools to move from concept to code to production expressively with natural language. 
+Software composers are using AI & LLM powered tools to move from concept to code to deployment expressively with natural language. 
 
 </td>
 <td width="40%">
@@ -16,9 +16,60 @@ Software composers are using AI / LLM powered tools to move from concept to code
 </tr>
 </table>
 
-## The software composer workflow
+## Getting started
+
+### Education 
+
+- [Takeoff](https://www.jointakeoff.com/) - [McKay Wrigley's](https://x.com/mckaywrigley) popular paid courses for learning to code with Cursor and build apps with AI
+- Free Youtube Videos
+    - [Cursor AI tutorial for beginners](https://www.youtube.com/watch?v=gqUQbjsYZLQ) - [Greg Isenberg](https://x.com/gregisenberg) and [Ras Mick](https://x.com/rasmickyy) dive deep into the frameworks and strategies on how to best use Cursor AI. 
+    - [Coding an app with AI in 67 minutes](https://www.youtube.com/watch?v=kDcM_xwmP3Q) - [Greg Isenberg](https://x.com/gregisenberg) and Riley Brown conduct a live coding session and build an app with just AI.
+    - [Essential AI Coding Fundamentals](https://www.youtube.com/watch?v=BblTkXR-3eo) - [Greg Isenberg](https://x.com/gregisenberg) and [Jason Zhou](https://x.com/jasonzhou1993) detail a more advanced spec driven approach to use Cusor to build an app. 
+- [Clair Vo's Maven Lightning Lessons](https://maven.com/p/317f53/the-ai-powered-product-manager) - Clair Vo shows how she goes from feature specificatoin to deployed code using ChatPRD, V0, Cursor and Devin.
+
+### The most popular workflow 
+
+Software composers are using a combination of tools to move from idea to code to deployment. 
+
+- V0 to generate an initial UI design from a text prompt
+- Cursor and composer to generate the code to implement the design
+- Git & GitHub to version control 
+- Firebase to persist the data
+- Replit or Vercel to deploy the application
+
+```mermaid
+flowchart LR
+    subgraph idea[Idea]
+        prompt[Text Prompt] --> V0[v0.dev]
+    end
+
+    subgraph development[Development]
+        subgraph versioning[Versioning with GitHub]
+            cursor[Cursor/Composer]
+        end
+        firebase[(Firebase)]
+    end
+
+    subgraph deployment[Deployment]
+        deploy[Replit/Vercel]
+    end
+
+    V0 --> cursor
+    versioning --> firebase
+    firebase --> deploy
+
+    style idea fill:#f0f7ff,stroke:#666
+    style development fill:#f5f5f5,stroke:#666
+    style deployment fill:#f7f0ff,stroke:#666
+```
 
 
+## Active Communities
+
+- [Software Composers](https://www.softwarecomposer.com/) - An independent community of over 7000 software composers started by [Riley Brown](https://x.com/rileybrown_ai)
+- [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/) - A very active subreddit for using AI to code (not just ChatGPT)
+- [Cursor Forums](https://forum.cursor.com/) - The official community for Cursor
+- [AI builder Club](https://www.skool.com/ai-builder-club/) - [Jason Zhou's](https://x.com/jasonzhou1993) paid skool community for learning to code with Cursor and build apps with AI
 
 ## Tools
 
@@ -45,7 +96,6 @@ Software composers are using AI / LLM powered tools to move from concept to code
 - [Gemini 1.5 Flash](https://deepmind.google/technologies/gemini/flash/) - A lightweight, fast, and cost-efficient AI model by Google DeepMind, optimized for speed and efficiency with a context window of up to one million tokens.
 - [Poolside](https://poolside.ai/) - An AI platform focused on software engineering, offering foundation models, an API, and an assistant to enhance developer productivity.
 - [DeepSeek Coder](https://deepseekcoder.github.io/) - A Chinese AI model developed by DeepSeek, known for its strong performance in natural language processing tasks.
-
 
 #### Frontend AI tools
 
