@@ -17,12 +17,14 @@ Software composers use AI & LLM powered tools to move from idea -> code -> deplo
 </table>
 
 ## Table of Contents
+- [What is a software composer?](#what-is-a-software-composer)
 - [Getting started](#getting-started)
   - [Education](#education)
   - [The most popular workflow](#the-most-popular-workflow)
 - [Active Communities](#active-communities)
 - [Tools](#tools)
   - [The most popular tools](#the-most-popular-tools-that-enable-the-software-composer-workflow)
+  - [One-stop shop products](#one-stop-shop-products)
   - [All tools by category](#all-tools-by-category)
     - [Foundation Models](#foundation-models)
     - [Frontend AI tools](#frontend-ai-tools)
@@ -32,7 +34,9 @@ Software composers use AI & LLM powered tools to move from idea -> code -> deplo
     - [Deployment & Hosting](#deployment--hosting)
     - [Version Control & Collaboration](#version-control--collaboration)
     - [Authentication & Identity](#authentication--identity)
-- [In the wild]()
+- [In the wild](#in-the-wild)
+  - [Real Applications](#real-applications)
+  - [On X (Twitter)](#on-x-twitter)
 
 ## Getting started
 
