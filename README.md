@@ -17,7 +17,6 @@ Software composers use AI & LLM powered tools to move from idea -> code -> deplo
 </table>
 
 ## Table of Contents
-- [What is a software composer?](#what-is-a-software-composer)
 - [Getting started](#getting-started)
   - [Education](#education)
   - [The most popular workflow](#the-most-popular-workflow)
