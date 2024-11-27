@@ -34,10 +34,12 @@ Software composers are using a combination of tools to move from idea to code to
 
 Idea
 - V0 to generate an initial UI design from a text prompt
+
 Development
 - Cursor and composer to generate the code to implement the design
 - Git & GitHub to version control 
 - Firebase to persist the data
+
 Deployment
 - Replit or Vercel to deploy the application
 
