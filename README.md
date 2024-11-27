@@ -7,12 +7,18 @@
 
 > To be a software composer is to select, arrange and blend pre-existing components, libraries and APIs into a complete and expressive solution.
 
+Software composers are using AI / LLM powered tools to move from concept to code to production expressively with natural language. 
+
 </td>
 <td width="40%">
 <img src="./media/software-composer-image.jpeg" alt="Software composer silhouette against glowing code and crowd" width="100%" />
 </td>
 </tr>
 </table>
+
+## The software composer workflow
+
+
 
 ## Tools
 
