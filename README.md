@@ -22,13 +22,13 @@
 - [Cursor](https://www.cursor.com) - An AI-powered code editor that acts as a pair programmer, assisting with code generation, refactoring, and debugging to boost productivity. Software composers takes its name from Cursor's eponymous "composer" feature.
 - [Replit](https://replit.com) - A collaborative, browser-based IDE for building and sharing applications. Replit supports multiple programming languages and enables instant deployment, live previews, and real-time collaboration with other developers.
 - [Firebase](https://firebase.google.com) - A Google-backed platform offering real-time databases, authentication, cloud storage, and serverless hosting for fast app prototyping and scaling.
-- [Clerk](https://clerk.com) - A plug-and-play user authentication service that simplifies sign-ups, logins, and account management, with support for social logins and MFA.
+- [Clerk](https://clerk.com) - A plug-and-play user authentication and identity service that simplifies sign-ups, logins, and account management, with support for social logins and MFA.
 - [Vercel](https://vercel.com) - A cloud platform for fast, reliable web app deployment, optimized for frameworks like Next.js, with serverless functions and edge caching.
 - [Github](https://github.com) - The go-to platform for version control and collaboration, offering Git hosting, pull requests, CI/CD with GitHub Actions, and project management tools.
 
 ### All tools by category
 
-#### Frontier Models 
+#### Foundation Models 
 
 - [GPT-4o](https://openai.com/product/gpt-4o) - An advanced AI language model by OpenAI, designed to enhance reasoning and problem-solving capabilities across various domains.
 - [GPT-4o Mini](https://openai.com/product/gpt-4o-mini) - A compact version of GPT-4o, offering similar advanced reasoning abilities in a more resource-efficient package.
@@ -49,7 +49,7 @@
 - [Visily](https://www.visily.ai) - Offers AI-driven features like converting text descriptions, sketches, or screenshots into editable wireframes and mockups, streamlining the design process.
 - [Galileo AI](https://www.usegalileo.ai) - Generates editable UI designs from simple text prompts, assisting designers in quickly visualizing and iterating on ideas.
 - [Components AI](https://components.ai) - Provides tools for creating generative design systems, including responsive components and pages, with a focus on computational theming and accessibility.
-- [Figma's First Draft](https://www.figma.com/first-draft) - An AI-powered feature within Figma that generates app designs from text prompts, offering various design libraries for different fidelity levels.
+- [Figma AI](https://www.figma.com/ai/) - Figma’s AI features, including “First Draft,” utilize generative AI to assist designers in creating app designs from text prompts. These tools offer various design libraries, from low-fidelity wireframes to high-fidelity visuals, streamlining the design process
 
 #### Frontend Libraries
 
@@ -70,12 +70,27 @@
 - [SourceGraph Cody](https://sourcegraph.com/cody) - AI-powered code search and explanation tool, providing insights into large codebases and improving developer productivity.
 - [Jetbrains AI](https://www.jetbrains.com/ai) - An integrated feature in JetBrains IDEs that leverages AI to enhance development workflows with capabilities like code generation, context-aware completion, and automated test creation.
 
-
 #### Backend & Persistence
 
 - [Firebase](https://firebase.google.com) - A Google-backed platform offering real-time databases, authentication, cloud storage, and serverless hosting for fast app prototyping and scaling.
 - [Supabase](https://supabase.com) - An open-source Firebase alternative providing tools like PostgreSQL, real-time updates, authentication, and storage for scalable backend development.
-- [Vercel Postgres](https://vercel.com/postgres) - A serverless PostgreSQL database service that integrates seamlessly with Vercel's edge functions and serverless runtime.
+
+#### Deployment & Hosting
+
+- [Vercel](https://vercel.com) - A cloud platform for fast, reliable web app deployment, optimized for frameworks like Next.js, with serverless functions and edge caching.
+- [Netlify](https://www.netlify.com) - Similar to Vercel, a platform for building and deploying web apps, offering continuous deployment, serverless functions, and a CDN for fast content delivery.
+- [Replit](https://replit.com) - A collaborative, browser-based IDE for building and sharing applications. Replit supports multiple programming languages and enables instant deployment, live previews, and real-time collaboration with other developers.
+
+#### Version Control & Collaboration
+
+- [Github](https://github.com) - The go-to platform for version control and collaboration, offering Git hosting, pull requests, CI/CD with GitHub Actions, and project management tools.
+- [Gitlab](https://gitlab.com) - A Git-based platform for collaboration, offering project management, CI/CD pipelines, and a range of tools for software development.
+
+#### Authentication & Identity
+
+- [Clerk](https://clerk.com) - A plug-and-play user authentication and identity service that simplifies sign-ups, logins, and account management, with support for social logins and MFA.
+- [Auth0](https://auth0.com) - A comprehensive authentication and authorization platform that supports a wide range of identity providers, including social logins, and offers flexible configuration options for secure authentication.
+
 
 
 
