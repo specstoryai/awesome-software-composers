@@ -7,7 +7,7 @@
 
 > To be a software composer is to select, arrange and blend pre-existing components, libraries and APIs into a complete and expressive solution.
 
-Software composers are using AI & LLM powered tools to move from concept to code to deployment expressively with natural language. 
+Software composers use AI & LLM powered tools to move from concept to code to deployment expressively with natural language. 
 
 </td>
 <td width="40%">
@@ -21,20 +21,24 @@ Software composers are using AI & LLM powered tools to move from concept to code
 ### Education 
 
 - [Takeoff](https://www.jointakeoff.com/) - [McKay Wrigley's](https://x.com/mckaywrigley) popular paid courses for learning to code with Cursor and build apps with AI
+- [Software Composer's beginners guide](https://community.softwarecomposer.com/c/beginner-guide/) - 7 free lessons that cover the basics of using Replit, Firebase, Cursor and Git to compose software from [Riley Brown](https://x.com/rileybrown_ai)
 - Free Youtube Videos
     - [Cursor AI tutorial for beginners](https://www.youtube.com/watch?v=gqUQbjsYZLQ) - [Greg Isenberg](https://x.com/gregisenberg) and [Ras Mick](https://x.com/rasmickyy) dive deep into the frameworks and strategies on how to best use Cursor AI. 
-    - [Coding an app with AI in 67 minutes](https://www.youtube.com/watch?v=kDcM_xwmP3Q) - [Greg Isenberg](https://x.com/gregisenberg) and Riley Brown conduct a live coding session and build an app with just AI.
+    - [Coding an app with AI in 67 minutes](https://www.youtube.com/watch?v=kDcM_xwmP3Q) - [Greg Isenberg](https://x.com/gregisenberg) and [Riley Brown](https://x.com/rileybrown_ai) conduct a live coding session and build an app with just AI.
     - [Essential AI Coding Fundamentals](https://www.youtube.com/watch?v=BblTkXR-3eo) - [Greg Isenberg](https://x.com/gregisenberg) and [Jason Zhou](https://x.com/jasonzhou1993) detail a more advanced spec driven approach to use Cusor to build an app. 
-- [Clair Vo's Maven Lightning Lessons](https://maven.com/p/317f53/the-ai-powered-product-manager) - Clair Vo shows how she goes from feature specificatoin to deployed code using ChatPRD, V0, Cursor and Devin.
+- [Clair Vo's Maven Lightning Lessons](https://maven.com/p/317f53/the-ai-powered-product-manager) - Clair Vo shows how she goes from feature specification to deployed code using ChatPRD, V0, Cursor and Devin.
 
 ### The most popular workflow 
 
 Software composers are using a combination of tools to move from idea to code to deployment. 
 
+Idea
 - V0 to generate an initial UI design from a text prompt
+Development
 - Cursor and composer to generate the code to implement the design
 - Git & GitHub to version control 
 - Firebase to persist the data
+Deployment
 - Replit or Vercel to deploy the application
 
 ```mermaid
