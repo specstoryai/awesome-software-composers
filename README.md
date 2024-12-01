@@ -95,6 +95,7 @@ flowchart LR
 
 - [Software Composers](https://www.softwarecomposer.com/) - An independent community of over 7000 software composers started by [Riley Brown](https://x.com/rileybrown_ai)
 - [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/) - A very active subreddit for using AI to code (not just ChatGPT)
+- [r/LLMDevs](https://www.reddit.com/r/LLMDevs/) - A subreddit for Developers and Enthusiasts to discuss the application of LLM and NLP tools
 - [Cursor Forums](https://forum.cursor.com/) - The official community for Cursor
 - [AI builder Club](https://www.skool.com/ai-builder-club/) - [Jason Zhou's](https://x.com/jasonzhou1993) paid skool community for learning to code with Cursor and build apps with AI
 
