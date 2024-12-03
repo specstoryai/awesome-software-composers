@@ -189,6 +189,7 @@ The following products seek to provide a one-stop shop for the software composer
 ### Real Applications 
 - [ChatPRD](https://www.chatprd.ai/) - An on-demand AI copilot for product managers to generate product requirements documents largely software composed by [Clair Vo](https://x.com/clairvo)
 - [YapThread: AI Voice Notes](https://yapthread.com) - A voice note app that uses AI to transcribe and summarize voice notes software composed by [Riley Brown](https://x.com/rileybrown_ai)
+- [Spun It: The Social Network for Vinyl Lovers](https://spunit.io/) - A mobile app that lets you track, log, and share your vinyl record spins with friends composed by [u/spliket](https://www.reddit.com/user/spliket/)
 
 ### On X (Twitter)
 
