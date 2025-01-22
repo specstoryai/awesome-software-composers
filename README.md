@@ -206,6 +206,7 @@ The following products seek to provide a one-stop shop for the software composer
 - A [cursor analytics dashboard](https://x.com/thehamedmp/status/1824216074579218678) by [@thehamedmp](https://x.com/thehamedmp)
 - A [location based travel app](https://x.com/zenowang98/status/1856744501441933770) by [@zenowang98](https://x.com/zenowang98)
 - An [air conditioner size calculator](https://x.com/Shpigford/status/1819429974287233413) by [@Shpigford](https://x.com/Shpigford)
+- A [personal outing assistant](https://www.timeoutai.app/) you can [read about here](https://x.com/FiloPietra/status/1882090837494137167) by [@FiloPietra](https://x.com/FiloPietra)
 
 
 
